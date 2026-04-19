@@ -22,3 +22,7 @@ linked lisr :
 1c o/p 1 : https://github.com/user-attachments/assets/3257c54f-c5e3-404e-91a0-0ce58fbffb3f
 
 
+o/p2: https://github.com/user-attachments/assets/57b4e2f7-1aaf-480f-9d35-93dffa8e83bc
+
+
+
