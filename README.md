@@ -34,3 +34,8 @@ o/p4:https://github.com/user-attachments/assets/605602d5-c071-4b40-8373-a3ffc265
 o/p5:https://github.com/user-attachments/assets/4ed490b1-8832-41aa-983d-309fe77751a5"
 
 2a :https://github.com/user-attachments/assets/75b304ee-ac41-417c-9f97-2cef5f8e2fb0
+
+
+2b : https://github.com/user-attachments/assets/e9026abf-9b4e-4414-baef-a607d19415a0
+
+
