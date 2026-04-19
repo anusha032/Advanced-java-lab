@@ -44,3 +44,7 @@ o/p5:https://github.com/user-attachments/assets/4ed490b1-8832-41aa-983d-309fe777
 
  String Exercise progams :
  3b o/p 1 :https://github.com/user-attachments/assets/01ed2bdd-8260-421f-a4b9-b9881395577b
+
+
+ o/p 2: https://github.com/user-attachments/assets/f617a246-4004-4551-8142-065384cba0eb
+
