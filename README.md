@@ -58,3 +58,6 @@ o/p4:https://github.com/user-attachments/assets/cdaa0c87-de81-4a26-b0dd-56d36ab2
 
 o/p5:https://github.com/user-attachments/assets/0fc6e86b-972f-4395-b84e-33af96fe1785
 
+
+String Exercise progams
+3c o/p6:- https://github.com/user-attachments/assets/e5bd40cd-441c-49fe-bd00-d24a58a02071
