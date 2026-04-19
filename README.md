@@ -61,3 +61,9 @@ o/p5:https://github.com/user-attachments/assets/0fc6e86b-972f-4395-b84e-33af96fe
 
 String Exercise progams
 3c o/p6:- https://github.com/user-attachments/assets/e5bd40cd-441c-49fe-bd00-d24a58a02071
+
+
+o/p7:https://github.com/user-attachments/assets/f6349c53-4c28-4ff9-9449-2a0c37566d2c
+
+
+
