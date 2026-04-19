@@ -18,7 +18,7 @@ o/p 4:https://github.com/user-attachments/assets/936ceccd-3fd0-4bd4-b853-2e0e2bd
 o/p 5:https://github.com/user-attachments/assets/83e1436c-be57-42bf-8433-a54fbaa556bb
 
 
-linked lisr :
+linked list :
 1c o/p 1 : https://github.com/user-attachments/assets/3257c54f-c5e3-404e-91a0-0ce58fbffb3f
 
 
@@ -41,3 +41,6 @@ o/p5:https://github.com/user-attachments/assets/4ed490b1-8832-41aa-983d-309fe777
 
 3a :https://github.com/user-attachments/assets/fd8fc4f5-b44c-4443-b29e-ed53b796c9ad
 
+
+ String Exercise progams :
+ 3b o/p 1 :https://github.com/user-attachments/assets/01ed2bdd-8260-421f-a4b9-b9881395577b
