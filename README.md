@@ -48,3 +48,8 @@ o/p5:https://github.com/user-attachments/assets/4ed490b1-8832-41aa-983d-309fe777
 
  o/p 2: https://github.com/user-attachments/assets/f617a246-4004-4551-8142-065384cba0eb
 
+
+o/p3:https://github.com/user-attachments/assets/c21c742b-a37b-4ec8-8867-355af86e19db
+
+
+o/p4:
