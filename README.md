@@ -96,4 +96,6 @@ o/p10:https://github.com/user-attachments/assets/8731a809-0dc7-4756-9a31-3d15858
 5d:https://github.com/user-attachments/assets/ec7b613c-df51-4b80-ac1e-4e2dab6c1bc1  https://github.com/user-attachments/assets/544fd0fb-93b9-4686-acfc-86c3136aa191
 
 
+6a : https://github.com/user-attachments/assets/6925a4ff-97cb-4b4c-b7db-8035d0d8d62c   https://github.com/user-attachments/assets/d768f6c3-810c-4445-836a-3ecc39692366
+
 
