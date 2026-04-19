@@ -17,3 +17,8 @@ o/p 4:https://github.com/user-attachments/assets/936ceccd-3fd0-4bd4-b853-2e0e2bd
 
 o/p 5:https://github.com/user-attachments/assets/83e1436c-be57-42bf-8433-a54fbaa556bb
 
+
+linked lisr :
+1c o/p 1 : https://github.com/user-attachments/assets/3257c54f-c5e3-404e-91a0-0ce58fbffb3f
+
+
